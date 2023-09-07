@@ -63,6 +63,6 @@ The following services are envisaged:
 
 ## License
 
-All texts in this collection are protected by copyright and may not be redistributed. The corpus was created for the internal work of IBL PAN
+All texts in this collection are protected by copyright and may not be redistributed. The corpus was created for the internal work of IBL PAN.
 
 ![alt_text](https://github.com/CHC-Computations/Harmonize/blob/main/Zrzut%20ekranu%202022-12-19%20o%2017.48.49.png?raw=true)
