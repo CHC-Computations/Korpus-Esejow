@@ -27,7 +27,7 @@ uneven availability of publications in digital form
 The corpus contains 717 texts.
 
 <p align="center">
-  <img src="KE_Number of texts by decade.png.png" alt="Number of texts by decade" width="65%">
+  <img src="KE_Number of texts by decade.png" alt="Number of texts by decade" width="65%">
 </p>
 
 <p align="center">
@@ -46,16 +46,11 @@ identifier
 type
 title
 author
-author_gender
 source
-source_number
-source_place
 source_date
 publication_date
-publication_place
-pages
 ```
-The table with metadata is presented [here](xxx).
+The table with metadata is presented [here](https://github.com/CHC-Computations/Korpus-Esejow/blob/main/KE_resources.csv).
 
 ## Use in the [GoLEM service](https://chrc.clarin-pl.eu/files/golem)
 
