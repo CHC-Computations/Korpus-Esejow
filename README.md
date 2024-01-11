@@ -1,5 +1,6 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
 # Corpus of Essays (Korpus Esejów; KE)
+![alt text](https://github.com/CHC-Computations/Korpus-Esejow/blob/main/eseje.svg?raw=true)
 
 The Corpus of Essays (KE) is a collection of texts covering Polish scientific and literary essays from the 20th and 21st centuries (1931-2022). It collects works by Polish literary scholars and literary scholars. All published texts are for the internal use of the Institute of Literary Research due to copyright restrictions.
 
